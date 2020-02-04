@@ -1,5 +1,7 @@
 # Web application development framework
 streamlit
+jupyter-server-proxy
+nbserverproxy
 
 # Python packages
 numpy #==1.17.2
